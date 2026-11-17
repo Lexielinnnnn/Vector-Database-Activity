@@ -1,0 +1,21 @@
+# Python environments
+.venv/
+.venv312/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Local vector database
+chroma_db/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
